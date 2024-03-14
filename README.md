@@ -1,4 +1,4 @@
-# mobile_computting
+# Mobile Computting
 
 A new Flutter project.
 
